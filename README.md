@@ -13,5 +13,5 @@ Step 5: Add destination to SNS topic 'update.'
 <img width="1909" height="926" alt="6" src="https://github.com/user-attachments/assets/c0de6ebe-aae8-47fb-b3af-68cdf4ea5d90" />
 <img width="1920" height="899" alt="7" src="https://github.com/user-attachments/assets/41767ea9-0b47-4034-aaf3-fe321478365e" />
 <img width="1920" height="923" alt="8" src="https://github.com/user-attachments/assets/15d52425-a420-47e0-b741-65324ef8642b" />
-<img width="1920" height="937" alt="9" src="https://github.com/user-attachments/assets/d35ff5e5-314d-464b-b704-143d2c3fe48f" />
 Results: Whenever we try to upload any object in an S3 bucket, we will get a simple notification service (SNS) alert message on email.
+<img width="1920" height="937" alt="9" src="https://github.com/user-attachments/assets/d35ff5e5-314d-464b-b704-143d2c3fe48f" />
